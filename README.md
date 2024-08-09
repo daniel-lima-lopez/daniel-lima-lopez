@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Lima López</h1>
-<h3 align="center">I am currently studying a Computer Scientis Master at INAOE</h3>
+<h3 align="center">I am currently studying a Computer Science Master at INAOE</h3>
 
 - 👨‍💻 All of my projects are available [here](https://github.com/daniel-lima-lopez?tab=repositories).
 
