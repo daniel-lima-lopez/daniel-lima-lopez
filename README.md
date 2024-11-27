@@ -60,7 +60,7 @@ Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-li
 </table>
 
 
-[**Butterworth-CNN**](https://github.com/daniel-lima-lopez/Tiktok-data-analysis)
+[**Butterworth-CNN**](https://github.com/daniel-lima-lopez/BW-CNN)
 
 <table>
 <tr>
