@@ -82,6 +82,74 @@ Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-li
 </table>
 
 
+[** Sistema de semaforos de estados dinamicos **]( )
+
+<table>
+<tr>
+<td width="60%">
+  
+**Descripción:**  
+*a* 
+
+**Tecnologías usadas:**  
+- a
+
+  
+</td>
+<td width="40%">
+  
+<img src=" ">
+  
+</td>
+</tr>
+</table>
+
+
+[** Implementación de kTLNN **]( )
+
+<table>
+<tr>
+<td width="60%">
+  
+**Descripción:**  
+*a* 
+
+**Tecnologías usadas:**  
+- a
+
+  
+</td>
+<td width="40%">
+  
+<img src=" ">
+  
+</td>
+</tr>
+</table>
+
+
+[** Implementación de Ada-kNN **]( )
+
+<table>
+<tr>
+<td width="60%">
+  
+**Descripción:**  
+*a*
+
+**Tecnologías usadas:**  
+- a
+
+  
+</td>
+<td width="40%">
+  
+<img src=" ">
+  
+</td>
+</tr>
+</table>
+
 
 ### Aprendizaje No Supervisado
 [**Sistema de Recomendación**](https://github.com/daniel-lima-lopez/Collaborative-Filtering-in-Recomender-System)
