@@ -41,7 +41,7 @@ Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-li
 <td width="60%">
   
 **Descripción:**  
-Implementación de un **pipeline** de procesamiento de datos, inclueyendo caracteristicas numericas y texto, integrado con una **Red Neuronal** para optimizar el entrenamiento y la evaluación de modelos, facilitando la clasificación de contenido de redes sociales. *  
+Implementación de un **pipeline** de procesamiento de datos, inclueyendo caracteristicas numericas y texto, integrado con una **Red Neuronal** para optimizar el entrenamiento y la evaluación de modelos, facilitando la clasificación de contenido de redes sociales.*  
 
 **Tecnologías usadas:**  
 - Tensorflow
