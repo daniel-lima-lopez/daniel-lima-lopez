@@ -1,50 +1,38 @@
-<h1 align="center">Hi 👋, I'm Daniel Lima López</h1>
-<h3 align="center">I am currently studying a Computer Science Master at INAOE</h3>
+# 🚀 Portafolio de proyectos 👨‍💻
 
-- 👨‍💻 All of my projects are available [here](https://github.com/daniel-lima-lopez?tab=repositories).
+Hola! mi nombre es Daniel Lima Lopez, recien complete una maestria en el area de Ciencias Computacionales, donde tuve la oportunidad de colaborar en diversos equipos en proyectos de investigacion, principalmente en el diseno y aplicacion de tecnicas de Machine Learning y Deep Learning.
 
-- 💬 My principal interesets are **Machine Learning, Computer Vision and Deep Learning**
+A continuacion muestro una coleccion de proyectos personales demostrando mis habilidaes en diversas areas de **Ciencia de Datos**, **Machine Learning**, **Natural Language Processing (NLP)** y **Computer Vision**. Cada proyecto incluye una breve descripcion y las tecnologias usadas.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/daniel-lima-lopez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-lima-lopez/) 😁.
 
-<h2>Project portfolio</h2>
+## Machine Learning
 
-- Natural Language Processing and Data mining:
-  - [N-Gram Example](https://github.com/daniel-lima-lopez/N-Gram-Example)
-  - [Sentiment classification with Naive Bayes classifier](https://github.com/daniel-lima-lopez/Sentiment-classification-with-Naive-Bayes-classifier)
-  - [Information Retrieval Example](https://github.com/daniel-lima-lopez/Information-Retrieval-Example)
-  - [Collaborative Filtering in Recomender System](https://github.com/daniel-lima-lopez/Collaborative-Filtering-in-Recomender-System)
-- Machine Learning
-  - [Python implementation of kTLNN](https://github.com/daniel-lima-lopez/kTLNN-Python)
-  - [Python implementation of Ada-kNN](https://github.com/daniel-lima-lopez/Ada-kNN-Python)
-- Deep learning:
-  - [Dynamic State Traffic Lights](https://github.com/daniel-lima-lopez/Dynamic-State-Traffic-Lights)
-- Other projects
-  - [Real Valued Genetic Algorithm](https://github.com/daniel-lima-lopez/Real-Valued-Genetic-Algorithm)
-  - [Chess pieces classification with area correlation](https://github.com/daniel-lima-lopez/Chess-pieces-classification-with-area-correlation)
-  - [Image edge enhancement with OpenCV](https://github.com/daniel-lima-lopez/Image-edge-enhancement-with-OpenCV)
+### Aprendisaje Supervisado
+
+[**Optimización de inversión publicitaria para maximizar ganancias**](https://github.com/daniel-lima-lopez/Advertising-Investment-Analysis-for-Profit-Maximization)
+
+<table>
+<tr>
+<td width="60%">
+  
+**Descricion:**  
+*Análisis de ganancias al invertir en diferentes canales publicitarios usando un modelo de **Regresión Lineal**, identificando la estrategia óptima para distribuir la inversión en cada canal con el fin de maximizar las ganancias generadas.*  
+
+**Tecnologias usadas:**  
+- Pandas / Pandas-SQL
+- Matplotlib
+- Seaborn
+- Scikit-Lean
+
+  
+</td>
+<td width="40%">
+  
+<img src="https://github.com/daniel-lima-lopez/Advertising-Investment-Analysis-for-Profit-Maximization/blob/main/README_files/README_29_0.png" title="Project Screenshot">
+  
+</td>
+</tr>
+</table>
 
 
-<h3 align='left'>Recent proyects</h3>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-lima-lopez&repo=Chess-pieces-classification-with-area-correlation)](https://github.com/daniel-lima-lopez/Chess-pieces-classification-with-area-correlation)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-lima-lopez&repo=Dynamic-State-Traffic-Lights)](https://github.com/daniel-lima-lopez/Dynamic-State-Traffic-Lights)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-lima-lopez&repo=Ada-kNN-Python)](https://github.com/daniel-lima-lopez/Ada-kNN-Python)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-lima-lopez&repo=kTLNN-Python)](https://github.com/daniel-lima-lopez/kTLNN-Python)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-lima-lopez&repo=Real-Valued-Genetic-Algorithm)](https://github.com/daniel-lima-lopez/Real-Valued-Genetic-Algorithm)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-lima-lopez&show_icons=true&locale=en&layout=compact" alt="daniel-lima-lopez" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-lima-lopez&show_icons=true&locale=en" alt="daniel-lima-lopez" /></p>
-
-<img src="https://komarev.com/ghpvc/?username=daniel-lima-lopez&color=brightgreen" alt="watching_count" />
