@@ -177,3 +177,138 @@ Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-li
 </td>
 </tr>
 </table>
+
+### Natural Language Processing
+
+[**MexIA: chatbot basado en RAG**](https://github.com/daniel-lima-lopez/Mex-IA-a-Retrieval-Augmented-Generation-Chatbot)
+
+<table>
+<tr>
+<td width="60%">
+  
+**Descripción:**  
+**  
+
+**Tecnologías usadas:**  
+- a
+  
+</td>
+<td width="40%">
+  
+<img src="" title="Project Screenshot">
+  
+</td>
+</tr>
+</table>
+
+
+[**Clasificación de Sentimientos con Naive Bayes**](https://github.com/daniel-lima-lopez/Sentiment-classification-with-Naive-Bayes-classifier)
+
+<table>
+<tr>
+<td width="60%">
+  
+**Descripción:**  
+**  
+
+**Tecnologías usadas:**  
+- a
+  
+</td>
+<td width="40%">
+  
+<img src="" title="Project Screenshot">
+  
+</td>
+</tr>
+</table>
+
+
+[**Ejemplo de Information-Retrieval**](https://github.com/daniel-lima-lopez/Information-Retrieval-Example)
+
+<table>
+<tr>
+<td width="60%">
+  
+**Descripción:**  
+**  
+
+**Tecnologías usadas:**  
+- a
+  
+</td>
+<td width="40%">
+  
+<img src="" title="Project Screenshot">
+  
+</td>
+</tr>
+</table>
+
+
+[**Ejemplo de N-Gram**](https://github.com/daniel-lima-lopez/N-Gram-Example)
+
+<table>
+<tr>
+<td width="60%">
+  
+**Descripción:**  
+**  
+
+**Tecnologías usadas:**  
+- a
+  
+</td>
+<td width="40%">
+  
+<img src="" title="Project Screenshot">
+  
+</td>
+</tr>
+</table>
+
+
+### Computer Vision
+
+[**Sistema de Reconocimiento y Detección de Placas de Automóviles**](https://github.com/daniel-lima-lopez/Sistema-de-Reconocimiento-y-Deteccion-de-Placas-de-Automoviles)
+
+<table>
+<tr>
+<td width="60%">
+  
+**Descripción:**  
+**  
+
+**Tecnologías usadas:**  
+- a
+  
+</td>
+<td width="40%">
+  
+<img src="" title="Project Screenshot">
+  
+</td>
+</tr>
+</table>
+
+
+[****]()
+
+<table>
+<tr>
+<td width="60%">
+  
+**Descripción:**  
+**  
+
+**Tecnologías usadas:**  
+- a
+  
+</td>
+<td width="40%">
+  
+<img src="" title="Project Screenshot">
+  
+</td>
+</tr>
+</table>
