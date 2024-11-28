@@ -82,69 +82,71 @@ Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-li
 </table>
 
 
-[** Sistema de semaforos de estados dinamicos **]( )
+[**Sistema de semaforos de estados dinamicos**](https://github.com/daniel-lima-lopez/Dynamic-State-Traffic-Lights)
 
 <table>
 <tr>
 <td width="60%">
   
 **Descripción:**  
-*a* 
+*Implementación de un sistema de semáforos de estados dinámicos controlados por **redes neuronales**. El sistema decide el estado más óptimo considerando las condiciones del tráfico en tiempo real. El entrenamiento se realizó en un entorno de simulación, optimizando los pesos de la red neuronal con **algoritmos genéticos**. El proyecto se sometió al concurso "Acelerando México con Inteligencia Artificial", organizado por Intel. En este concurso se reconoció como uno de los top proyectos.* 
 
 **Tecnologías usadas:**  
-- a
-
+- Tensorflow
+- SUMO
   
 </td>
 <td width="40%">
   
-<img src=" ">
+<img src="https://github.com/daniel-lima-lopez/Dynamic-State-Traffic-Lights/blob/main/imgs/Diagrama.png">
   
 </td>
 </tr>
 </table>
 
 
-[** Implementación de kTLNN **]( )
+[**Implementación de kTLNN**](https://github.com/daniel-lima-lopez/kTLNN-Python)
 
 <table>
 <tr>
 <td width="60%">
   
 **Descripción:**  
-*a* 
+*Implementación en Python del algoritmo **kTLNN**, propuesto por [Wang et al.](https://www.sciencedirect.com/science/article/abs/pii/S0950705121008662) Esta propuesta consiste en una extensión al algoritmo clásico **kNN**, extendiendo la regla de decisión a un vecindario de dos capas, reuniendo información más relevante para realizar la clasificación.* 
 
 **Tecnologías usadas:**  
-- a
+- Python
+- Numpy
 
   
 </td>
 <td width="40%">
   
-<img src=" ">
+<img src="https://github.com/daniel-lima-lopez/kTLNN-Python/blob/main/imgs/ks_balance-scale.png">
   
 </td>
 </tr>
 </table>
 
 
-[** Implementación de Ada-kNN **]( )
+[**Implementación de Ada-kNN**](https://github.com/daniel-lima-lopez/Ada-kNN-Python)
 
 <table>
 <tr>
 <td width="60%">
   
 **Descripción:**  
-*a*
+*Implementación en **Python** del algoritmo **Ada-kNN**, propuesto por [Mullick et al.](https://ieeexplore.ieee.org/abstract/document/8326728) Este clasificador presenta una propuesta para automatizar la elección del valor k en el clasificador **kNN**, dependiendo de las características de cada instancia nueva a clasificar. Para ello, se propone una etapa de entrenamiento usando **redes neuronales** para predecir el valor óptimo de k.*
 
 **Tecnologías usadas:**  
-- a
-
+- Python
+- Numpy
+- Tensorflow
   
 </td>
 <td width="40%">
   
-<img src=" ">
+<img src="https://github.com/daniel-lima-lopez/Ada-kNN-Python/blob/main/imgs/ks_balance-scale.png">
   
 </td>
 </tr>
