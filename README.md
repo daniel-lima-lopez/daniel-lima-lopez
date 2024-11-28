@@ -195,7 +195,7 @@ Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-li
 </td>
 <td width="40%">
   
-<img src="" title="Project Screenshot">
+<img src="https://github.com/daniel-lima-lopez/Mex-IA-a-Retrieval-Augmented-Generation-Chatbot/blob/main/Diagrama_RAG.png" title="Project Screenshot">
   
 </td>
 </tr>
@@ -217,7 +217,7 @@ Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-li
 </td>
 <td width="40%">
   
-<img src="" title="Project Screenshot">
+<img src="https://github.com/daniel-lima-lopez/Sentiment-classification-with-Naive-Bayes-classifier/blob/main/imgs/cm1.png" title="Project Screenshot">
   
 </td>
 </tr>
@@ -261,7 +261,7 @@ Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-li
 </td>
 <td width="40%">
   
-<img src="" title="Project Screenshot">
+<img src="https://github.com/daniel-lima-lopez/N-Gram-Example/blob/main/test.png" title="Project Screenshot">
   
 </td>
 </tr>
@@ -285,7 +285,7 @@ Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-li
 </td>
 <td width="40%">
   
-<img src="" title="Project Screenshot">
+<img src="https://github.com/daniel-lima-lopez/Sistema-de-Reconocimiento-y-Deteccion-de-Placas-de-Automoviles/blob/main/README_files/README_14_0.png" title="Project Screenshot">
   
 </td>
 </tr>
@@ -307,7 +307,7 @@ Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-li
 </td>
 <td width="40%">
   
-<img src="" title="Project Screenshot">
+<img src="https://github.com/daniel-lima-lopez/Road-identification-via-Semantic-Segmentation/blob/main/imgs/output.png" title="Project Screenshot">
   
 </td>
 </tr>
