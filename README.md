@@ -239,7 +239,7 @@ Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-li
 </td>
 <td width="40%">
   
-<img src="" title="Project Screenshot">
+<img src="https://github.com/daniel-lima-lopez/Information-Retrieval-Example/blob/main/IRimg.png" title="Project Screenshot">
   
 </td>
 </tr>
