@@ -8,6 +8,54 @@ Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-li
 
 ## Machine Learning
 
+### Large Language Models (LLMs)
+
+[**MexIA: chatbot basado en RAG**](https://github.com/daniel-lima-lopez/Mex-IA-a-Retrieval-Augmented-Generation-Chatbot)
+
+<table>
+<tr>
+<td width="60%">
+  
+**Descripción:**  
+*Chatbot basado en **RAG** enfocado a responder consultas de caracter legal. La implementacion incluye la etapa de extraccion de informacion del documento oficial de la constitucion mexicana, usando **expresiones regulares**, asi como la etapa de division del contenido en chunks e ingesta en el **vector store**.*  
+
+**Tecnologías usadas:**  
+- LlamaIndex
+- gpt-4o-mini
+- NLTK
+  
+</td>
+<td width="40%">
+  
+<img src="https://github.com/daniel-lima-lopez/Mex-IA-a-Retrieval-Augmented-Generation-Chatbot/blob/main/Diagrama_RAG.png" title="Project Screenshot">
+  
+</td>
+</tr>
+</table>
+
+
+[**Sistema de Soporte al Cliente**]([https://github.com/daniel-lima-lopez/Mex-IA-a-Retrieval-Augmented-Generation-Chatbot](https://github.com/daniel-lima-lopez/Customer-Support-Agents))
+
+<table>
+<tr>
+<td width="60%">
+  
+**Descripción:**  
+*Sistema multi-agente enfocado para el servicio al cliente de un producto fictisio. La implementacion incluye la etpa de ingesta en el **Vector Store**, asi como la implementacion de dos agentes basados en **RAG** usando **Llama 3.1**. El sistema funciona a traves de una serie de pasos de razonamiento que determinan el contexto de la pregunta del usuario y seleccionan al agente **RAG** mas adecuado, el cual puede estar especializado en la documentacion de instrucciones o una guia de problemas comunes.*  
+
+**Tecnologías usadas:**  
+- LangChain
+- Llama 3.1
+  
+</td>
+<td width="40%">
+  
+<img src="https://github.com/daniel-lima-lopez/Mex-IA-a-Retrieval-Augmented-Generation-Chatbot/blob/main/Diagrama_RAG.png" title="Project Screenshot">
+  
+</td>
+</tr>
+</table>
+
 ### Aprendizaje Supervisado
 
 [**Optimización de inversión publicitaria para maximizar ganancias**](https://github.com/daniel-lima-lopez/Advertising-Investment-Analysis-for-Profit-Maximization)
@@ -180,28 +228,6 @@ Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-li
 
 ### Natural Language Processing
 
-[**MexIA: chatbot basado en RAG**](https://github.com/daniel-lima-lopez/Mex-IA-a-Retrieval-Augmented-Generation-Chatbot)
-
-<table>
-<tr>
-<td width="60%">
-  
-**Descripción:**  
-**  
-
-**Tecnologías usadas:**  
-- a
-  
-</td>
-<td width="40%">
-  
-<img src="https://github.com/daniel-lima-lopez/Mex-IA-a-Retrieval-Augmented-Generation-Chatbot/blob/main/Diagrama_RAG.png" title="Project Screenshot">
-  
-</td>
-</tr>
-</table>
-
-
 [**Clasificación de Sentimientos con Naive Bayes**](https://github.com/daniel-lima-lopez/Sentiment-classification-with-Naive-Bayes-classifier)
 
 <table>
@@ -209,10 +235,13 @@ Te invito a conectar conmigo en [Linkedin](https://www.linkedin.com/in/daniel-li
 <td width="60%">
   
 **Descripción:**  
-**  
+*Implementacion del algoritmo **Naive Bayes** y una variante basada en un conteo binario. La implementacion se pone a prueba bajo la tarea de **clasificacion de sentimientos**, esto incluye la etapa de procesamiento, tokenizacion de texto y split de datos en entrenamiento y pruebas. Ambos modelos se comparan con la metrica de precision y un analisis usando **matrices de confusion**.*  
 
 **Tecnologías usadas:**  
-- a
+- NLTK
+- Pandas
+- Numpy
+- Scikit-Learn
   
 </td>
 <td width="40%">
